@@ -1,2 +1,2 @@
-# ranisingh-demo
+# raniSingh-demo
 This is my first git repository.
